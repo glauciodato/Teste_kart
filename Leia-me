@@ -1,0 +1,12 @@
+Eu não atuo como programador C# ou .Net. Tenho grande experiencia em PL/SQl linguagem estruturada.
+Então a solução encontrada via pesquisa foi utilizar o GridViwe e o metodo String.Split. 
+No qual a funcao split localiza e separa a string com base em um caracter especifico, que no exemplo utilizei o espaco em Braco " ",
+e conforme essa separação é armazenada no GridView.
+Eu verifiquei que voce consegue manipular e usar o metodo Select para extrair as informacoes da Grid. Porem optei por nao tentar.
+
+Obs: Não tenho medo de desafio de apreender na raça uma nova linguagem se assim for me dado oportunidade.
+
+Um forte Abraço
+
+Glaucio Martins
+
